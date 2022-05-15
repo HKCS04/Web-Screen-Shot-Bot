@@ -42,9 +42,11 @@ GOOGLE_CHROME_SHIM=
 LOG_GROUP=-123990002
 SUPPORT_GROUP_LINK=https://t.me/bytessupport
 ```
-[!][Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/HKCS04/Web-Screen-Shot-Bot)
+[Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/HKCS04/Web-Screen-Shot-Bot)
 
 # Thanks to
+
+[Harikrishnan](https://t.me/MR_TRUE_BOY_01)
 
 [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
