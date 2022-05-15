@@ -2,6 +2,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/165cc3bc283f46879e0e0ed27abdc4a2)](https://www.codacy.com/gh/alenpaul2001/Web-Screenshot-Bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alenpaul2001/Web-Screenshot-Bot&amp;utm_campaign=Badge_Grade)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Try it on telegram](https://img.shields.io/badge/try%20it-on%20telegram-0088cc.svg)](http://t.me/BetterWebShotBot)
+[![Our Official Telegram Channel](https://t.me/HK_BOTZ)
 
 A Telegram _Web-Screenshot_ Bot Based on Pyrogram
 # Introduction
@@ -42,7 +43,7 @@ GOOGLE_CHROME_SHIM=
 LOG_GROUP=-123990002
 SUPPORT_GROUP_LINK=https://t.me/bytessupport
 ```
-[Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/HKCS04/Web-Screen-Shot-Bot)
+[![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/HKCS04/Web-Screen-Shot-Bot)
 
 # Thanks to
 
