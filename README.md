@@ -42,7 +42,7 @@ GOOGLE_CHROME_SHIM=
 LOG_GROUP=-123990002
 SUPPORT_GROUP_LINK=https://t.me/bytessupport
 ```
-
+[!][Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/HKCS04/Web-Screen-Shot-Bot)
 
 # Thanks to
 
