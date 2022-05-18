@@ -30,4 +30,4 @@ class Config:
     # OPTIONAL
     LOG_GROUP = init_log()
     REQUEST_TIMEOUT = init_request_timeout()
-    SUPPORT_GROUP_LINK = os.environ.get("SUPPORT_GROUP", "https://t.me/bytessupport")
+    SUPPORT_GROUP_LINK = os.environ.get("SUPPORT_GROUP", "https://t.me/Txbotz")
